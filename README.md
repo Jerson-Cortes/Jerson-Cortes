@@ -3,7 +3,7 @@
 <div align="center"> 
   
 <a href="mailto:jersoncortes.work@protonmail.com?subject=Feedback%20From%20Github&body=Hello,"><img alt="" title="Email" src="resources/protonmail.svg"/></a>
-<a href="www.linkedin.com/in/jerson-cortes-palomino"><img alt="" title="LinkedIn" src="resources/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/jerson-cortes-palomino"><img alt="" title="LinkedIn" src="resources/linkedin.svg"></a>
 
 </div>
 
